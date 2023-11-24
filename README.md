@@ -1,27 +1,39 @@
-# Netflix-Clone : Responsive for all devices (Using HTML, CSS, and JavaScript)
+# Netflix-Clone: Responsive for all devices (Using HTML, CSS, and JavaScript)
 ## Screenshots<br><br>
 
 # 4K - 2560px<br><br>
-![img-1](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/143ec9bb-4230-4e5b-935e-39c25f607bc6)
-![img-4](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/fe67c8d6-42bb-4954-b4b0-a0133163ff1a)<br><br>
+![N_4k_1](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/3fb93998-26bc-43ca-82b9-48c8dfdfdb91)
+![N_4k_2](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/914a44d9-a4dc-4701-b88d-704d29757227)
+![N_4k_3](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/c76ffc17-372a-4047-8c7f-53d984214983)
+![N_4k_4](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/374174ca-1eb4-4f14-93e6-465c991cd002)<br><br>
 # Laptop L - 1440px<br><br>
-![img-3](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/803c23b9-c6eb-4f0b-9800-9b3d67da2017)
-![img-4](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/38f4d1bf-ad92-4491-b0a0-d9e15f1d0685)
-![img-5](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/339b323b-af50-4757-bb81-ecbec645675d)
-![img-6](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/14a4f78d-5a84-4968-88e2-3b5fa9b7592c)<br><br>
+![n_ll_1](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/421b9998-2452-4b1d-9fd7-0ef12735b055)
+![n_ll_2](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/e3d4624c-0b2e-4918-8d53-08be8873b6e3)
+![n_ll_3](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/1645125e-5ae4-4705-afbf-904266634066)
+![n_ll_4](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/61dcb6ac-93fe-41d7-96a5-4f283e3440e5)<br><br>
 # Laptop - 1024px<br><br>
-![img-7](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/0d1c704d-e94a-4562-b1ee-ce65c5739341)
-![img-8](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/88f08e81-3880-485b-9eda-20834560e4c0)
-![img-9](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/9c420805-5c59-4ffc-a597-1cb047d8d66b)
-![img-10](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/40985fd6-7d0c-4735-a711-47e5412b8633)<br><br>
+![n_l_1](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/24e0e01a-a32c-403c-bf0c-43cd9784db8a)
+![n_l_2](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/e77a9ff1-7f84-46e1-906e-6c7a69f082f8)
+![n_l_3](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/96a6675b-77e0-4db5-aefa-5affefb89043)
+![n_l_4](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/4af36db1-0b9f-4b8f-9f0d-2eb252928dc4)<br><br>
 # Tablet - 768px<br><br>
-![img-11](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/fe9e5a13-1a6a-486d-8763-26bad481ade9)
-![img-12](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/8f986724-c7f1-4bd1-b933-0ab2034168d7)
-![img-13](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/01b3d8fa-face-460a-b511-c1d32dfd812a)
-![img-14](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/98e3d4f6-1dd0-4963-8905-988c4746edc9)<br><br>
+![n_t_1](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/bf9bceb9-6c5c-4dcc-87a6-434ae3f0d7b6)
+![n_t_2](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/a07045f6-6ab0-47fa-9a56-c19c0d4f8b98)
+![n_t_3](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/811df512-ffa0-41fa-928e-6d6bc116b53e)
+![n_t_4](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/a4ce5d79-9335-4616-abd5-505015510135)<br><br>
 # Mobile L - 425px<br><br>
-![img-15](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/36ff6013-d448-4e9c-ad5c-1d2e0f8b0c34)
-![img-16](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/8eae7a9c-8ff2-41ba-b338-ae98d8bbd243)
-![img-17](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/28db0c50-9df0-4a0e-a2b8-d733495c680a)
-![img-18](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/77c69b9c-f6a4-4605-b3fa-65479b0ac261)<br><br>
-# Mobile L - 425px<br><br>
+![n_ml_1](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/46c44727-2207-4ce6-a315-71490dd70d5b)
+![n_ml_2](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/4250a22e-5f3a-42b8-928d-6a8b1c5f8471)
+![n_ml_3](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/daa84870-fbf3-4327-894a-b7789b0d5c38)
+![n_ml_4](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/88f462c5-fa32-42dd-a8f1-c792a514ca8d)<br><br>
+# Mobile M - 375px<br><br>
+![n_mm_1](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/41c57cb5-96d1-4624-9e60-c48131283f3f)
+![n_mm_2](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/c350edf7-90b7-4601-96dc-81f65171d982)
+![n_mm_3](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/82939a07-33b1-43bb-ba23-a0c18cd91a22)
+![n_mm_4](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/dc6c1e27-4fb8-4d8d-9c1f-cce238ebe172)<br><br>
+# Mobile M - 375px<br><br>
+![n_ms_1](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/d1e15d1c-634b-4475-bd3b-9b57b48575df)
+![n_ms_2](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/85526f74-8d8b-4d32-9b2e-119755dc28c6)
+![n_ms_3](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/79ec5e57-9c87-426c-81fd-c7e4e411469b)
+![n_ms_4](https://github.com/theamitrawat/Netflix-Clone/assets/136779130/2a8e950a-b0c6-4e5b-9532-544b6ad0f1e3)<br><br>
+THANKYOU<br><br>
