@@ -1,4 +1,9 @@
-# Netflix-Clone: Responsive for all devices (Using HTML, CSS, and JavaScript)
+# Netflix-Clone: Responsive for all devices (Using HTML, CSS, and JavaScript)<br><br>
+
+## Demo Video 
+
+https://github.com/theamitrawat/Netflix-Clone/assets/136779130/0d7ab092-4007-4210-9c09-68196c1aec44
+
 ## Screenshots<br><br>
 
 # 4K - 2560px<br><br>
